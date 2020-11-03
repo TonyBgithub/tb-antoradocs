@@ -1,0 +1,4 @@
+name: petstore-api
+title: Petstore API
+version: 'v2.0'
+start_page: ROOT:index.adoc
