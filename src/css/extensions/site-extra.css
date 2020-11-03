@@ -1,8 +1,8 @@
-.lisk-logo {
+.site-logo {
   display: block;
   width: 65px;
   height: 35px;
-  background-image: url(../img/lisk-logo-light.svg);
+  background-image: url(../img/panda.svg);
   background-size: contain;
   background-repeat: no-repeat;
 }
