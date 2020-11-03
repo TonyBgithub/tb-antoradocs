@@ -1,0 +1,12 @@
+.xref:index.adoc[OpenWeatherMap API]
+* xref:overview.adoc[Overview]
+* xref:installation.adoc[Installation Setup and Steps]
+** xref:installpostman.adoc[Installing Postman]
+** xref:getapikey.adoc[Getting an API Key] 
+
+.CLI Commands and Options
+* xref:commands.adoc[]
+* xref:commands-in-action.adoc[]
+
+._Support_
+* https://www.google.fr[Ask Google]

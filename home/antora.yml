@@ -1,0 +1,6 @@
+name: apidocs
+title: API Docs
+version: '1.0'
+#The start_page is index.adoc inside ROOT. No need to specify here unless we want another file to be the start_page.
+nav:
+  - modules/ROOT/nav.adoc
