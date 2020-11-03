@@ -1,5 +1,6 @@
 site:
   title: TB Antora docs
+  url: https://tbantoradocs.com
   start_page: apidocs::index.adoc
 git:
   ensure_git_suffix: false
@@ -11,9 +12,10 @@ content:
     start_path: home
   - url: https://github.com/tonybgithub/docs-site
     start_path: docs
-ui: 
+  - url: https://github.com/TonyBgithub/tb-antoradocs
+    branches: [openweather-api, petstore-api]
+ui:
   bundle:
     url: https://github.com/TonyBgithub/tb-antoradocs/raw/ui-bundle/build/ui-bundle.zip
-    snapshot: true
 output:
   dir: ./public
