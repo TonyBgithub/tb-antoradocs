@@ -1,0 +1,4 @@
+name: openweather-api
+title: OpenWeather API
+version: 'v2.0'
+start_page: ROOT:index.adoc
