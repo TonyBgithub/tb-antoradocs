@@ -1,6 +1,6 @@
 site:
   title: TB Antora docs
-  start_page: docs-site::index.adoc
+  start_page: apidocs::index.adoc
 git:
   ensure_git_suffix: false
 content:
