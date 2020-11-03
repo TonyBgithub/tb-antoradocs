@@ -6,6 +6,10 @@ Thank you for taking the time to review my work! This is a website I am currentl
 
 This website's repositories are hosted on GitHub and deployed using Netlify.
 
+## API documentation
+
+Checkout the **API Reference** categories in the top navigation bar to see how the Petstore API and Openweather API references are rendered using ReDoc.
+
 ## AsciiDoc
 
 Most of the files from this website are AsciiDoc files, loaded and converted into html code with each build.
