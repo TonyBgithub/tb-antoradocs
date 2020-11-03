@@ -2,7 +2,7 @@
 
 Thank you for taking the time to review my work! This is a website I am currently working on.
 
-## Hosted on GitHub and deployed with Netlify
+## Hosting
 
 This website's repositories are hosted on GitHub and deployed using Netlify.
 
