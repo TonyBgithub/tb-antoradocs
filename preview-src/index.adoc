@@ -1,0 +1,5 @@
+= API (Betanet)
+Tony Briget
+:description: The API specification describes all available API endpoints, and also covers how to send requests and receive live responses.
+:page-layout: redoc
+
