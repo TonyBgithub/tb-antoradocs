@@ -2,11 +2,11 @@
 
 Thank you for taking the time to review my work.
 
-# Hosted on GitHub and deployed with Netlify
+## Hosted on GitHub and deployed with Netlify
 
 This website's repositories are hosted on GitHub and deployed using Netlify.
 
-# AsciiDoc
+## AsciiDoc
 
 Most of the files from this website are AsciiDoc files, loaded and transformed into html code with each build.
 
