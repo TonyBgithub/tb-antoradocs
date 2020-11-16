@@ -12,7 +12,7 @@ Checkout the **API Reference** categories in the top navigation bar to see how t
 
 ## AsciiDoc
 
-Most of the files from this website are AsciiDoc files, loaded and converted into html code with each build.
+Most of the files from this website are AsciiDoc files, loaded and converted into HTML with each build.
 
 ## Code samples
 
